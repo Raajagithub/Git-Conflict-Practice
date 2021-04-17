@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is from Eclipse
+=======
+This ia from github
+>>>>>>> branch 'master' of https://github.com/Raajagithub/Git-Conflict-Practice.git
